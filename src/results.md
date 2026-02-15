@@ -9,9 +9,9 @@
 - **Gradle Build:** Passed all compilation tests
 - **Java Version:** 17
 
-## Test Output
+## Test Output 95%
 
-## Autograder Score= 95.00%
+## Autograder Score= 73.3%
 
 ## Summary of Implementation
 
@@ -53,7 +53,7 @@
 
 ## Submission Details
 - **Date:** 2026-02-15
-- **Final Score:** 95%
+- **Final Score:** 73.3%
 - **Status:** PASS
 
 ---
